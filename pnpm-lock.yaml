@@ -5594,6 +5594,3 @@ snapshots:
   yocto-queue@0.1.0: {}
 
   zod@3.24.3: {}
-rm -rf node_modules
-rm pnpm-lock.yaml
-pnpm install
